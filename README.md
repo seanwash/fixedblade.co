@@ -4,5 +4,5 @@ https://fixedblade.co
 
 ## Notes to Self
 
-- Hosted on Netlify
-- DNS via Netlify
+- Hosted on AWS Amplify
+- DNS via Cloudflare
